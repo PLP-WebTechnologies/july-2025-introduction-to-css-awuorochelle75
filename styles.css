@@ -1,0 +1,30 @@
+body{
+    padding:7px;
+}
+
+header{
+    text-align:center;
+    font-style: italic;
+    color:brown;
+    margin-top:10px;
+}
+
+.para1{
+    text-decoration:underline;
+}
+
+.list{
+   
+    color:coral
+
+}
+
+ol li {
+    margin-bottom: 5px;
+    padding:2px;
+}
+
+.review{
+    font-style: oblique;
+    background-color:darkgreen;
+}
